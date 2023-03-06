@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1637337216 source:c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"cargarcadena.h"
+	"clases.h"
+	"funciones.h"
+	"MenuProfesores.h"
+	"MenuAlumnos.h"
+	"MenuClases.h"
+	"MenuArticulos.h"
+	"MenuReportes.h"
+
+1632080894 c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1633009726 c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\cargarcadena.h
+
+1637516270 c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\clases.h
+
+1638196035 c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\funciones.h
+
+1636638277 c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\menuprofesores.h
+
+1637248140 c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\menualumnos.h
+
+1637338469 c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\menuclases.h
+
+1637516704 c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\menuarticulos.h
+
+1635947573 c:\users\usuario\desktop\gianluca\utn\2º cuatrimestre\lab ii\proyecto\salvatori gianluca proyecto parcial 2\menureportes.h
+
